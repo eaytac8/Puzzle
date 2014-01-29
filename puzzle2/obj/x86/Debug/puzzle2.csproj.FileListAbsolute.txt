@@ -1,0 +1,25 @@
+C:\Users\Shinigami\Documents\Visual Studio 2010\Projects\puzzle2\puzzle2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Shinigami\Documents\Visual Studio 2010\Projects\puzzle2\puzzle2\obj\x86\Debug\puzzle2.Form1.resources
+C:\Users\Shinigami\Documents\Visual Studio 2010\Projects\puzzle2\puzzle2\obj\x86\Debug\puzzle2.Properties.Resources.resources
+C:\Users\Shinigami\Documents\Visual Studio 2010\Projects\puzzle2\puzzle2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Shinigami\Documents\Visual Studio 2010\Projects\puzzle2\puzzle2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Shinigami\Documents\Visual Studio 2010\Projects\puzzle2\puzzle2\bin\Debug\Puzzle.exe.manifest
+C:\Users\Shinigami\Documents\Visual Studio 2010\Projects\puzzle2\puzzle2\bin\Debug\Puzzle.application
+C:\Users\Shinigami\Documents\Visual Studio 2010\Projects\puzzle2\puzzle2\bin\Debug\Puzzle.exe
+C:\Users\Shinigami\Documents\Visual Studio 2010\Projects\puzzle2\puzzle2\bin\Debug\Puzzle.pdb
+C:\Users\Shinigami\Documents\Visual Studio 2010\Projects\puzzle2\puzzle2\obj\x86\Debug\Puzzle.exe.manifest
+C:\Users\Shinigami\Documents\Visual Studio 2010\Projects\puzzle2\puzzle2\obj\x86\Debug\Puzzle.application
+C:\Users\Shinigami\Documents\Visual Studio 2010\Projects\puzzle2\puzzle2\obj\x86\Debug\Puzzle.exe
+C:\Users\Shinigami\Documents\Visual Studio 2010\Projects\puzzle2\puzzle2\obj\x86\Debug\Puzzle.pdb
+G:\Dropbox\ödevler\NDP\puzzle2\puzzle2\obj\x86\Debug\Puzzle.exe
+G:\Dropbox\ödevler\NDP\puzzle2\puzzle2\obj\x86\Debug\Puzzle.pdb
+G:\Dropbox\ödevler\NDP\puzzle2\puzzle2\bin\Debug\Puzzle.exe.manifest
+G:\Dropbox\ödevler\NDP\puzzle2\puzzle2\bin\Debug\Puzzle.application
+G:\Dropbox\ödevler\NDP\puzzle2\puzzle2\bin\Debug\Puzzle.exe
+G:\Dropbox\ödevler\NDP\puzzle2\puzzle2\bin\Debug\Puzzle.pdb
+G:\Dropbox\ödevler\NDP\puzzle2\puzzle2\obj\x86\Debug\puzzle2.csprojResolveAssemblyReference.cache
+G:\Dropbox\ödevler\NDP\puzzle2\puzzle2\obj\x86\Debug\puzzle2.Form1.resources
+G:\Dropbox\ödevler\NDP\puzzle2\puzzle2\obj\x86\Debug\puzzle2.Properties.Resources.resources
+G:\Dropbox\ödevler\NDP\puzzle2\puzzle2\obj\x86\Debug\puzzle2.csproj.GenerateResource.Cache
+G:\Dropbox\ödevler\NDP\puzzle2\puzzle2\obj\x86\Debug\Puzzle.exe.manifest
+G:\Dropbox\ödevler\NDP\puzzle2\puzzle2\obj\x86\Debug\Puzzle.application

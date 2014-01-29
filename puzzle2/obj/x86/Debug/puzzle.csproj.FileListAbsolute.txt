@@ -1,0 +1,7 @@
+G:\Dropbox\ödevler\NDP\puzzle2\puzzle2\obj\x86\Debug\Puzzle.exe
+G:\Dropbox\ödevler\NDP\puzzle2\puzzle2\obj\x86\Debug\Puzzle.pdb
+C:\Users\osman\Documents\GitProjects\Puzzle\puzzle2\obj\x86\Debug\Puzzle.exe
+C:\Users\osman\Documents\GitProjects\Puzzle\puzzle2\obj\x86\Debug\Puzzle.pdb
+C:\Users\osman\Documents\GitProjects\Puzzle\puzzle2\obj\x86\Debug\puzzle.csprojResolveAssemblyReference.cache
+C:\Users\osman\Documents\GitProjects\Puzzle\puzzle2\obj\x86\Debug\puzzle2.Form1.resources
+C:\Users\osman\Documents\GitProjects\Puzzle\puzzle2\obj\x86\Debug\puzzle.csproj.GenerateResource.Cache
